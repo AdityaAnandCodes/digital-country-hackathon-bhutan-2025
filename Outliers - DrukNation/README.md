@@ -37,6 +37,16 @@ DrukNation is a full-stack web application for Bhutan's e-Residency, property, a
 
 </div>
 
+## 📜 Smart Contracts
+
+DrukNation is powered by verified Solidity smart contracts on the Ethereum Sepolia Testnet, ensuring transparency, trust, and decentralization.
+
+| Module             | Contract Name            | Verified Source Code |
+|--------------------|--------------------------|-----------------------|
+| 🪪 E-Residency      | `BhutanEResidency`       | [View on Etherscan](https://sepolia.etherscan.io/address/0x95e9a99fecbe8b64f0779d2e0a6965b6e785864d#code) |
+| ✅ KYC Verification | `KYCVerifier`            | [View on Etherscan](https://sepolia.etherscan.io/address/0x4263cb34a554b2d50b7300c0bc9fe073f1d4b38e#code) |
+| 🏞️ Land Marketplace | `LandMarketplace`        | [View on Etherscan](https://sepolia.etherscan.io/address/0x05a66acd7a0fcc759b4f8139bc7cbe5bc88d6424#code) |
+
 ---
 ![Hero Image](https://github.com/raksha-bv/DrukNation/blob/main/showcase/HeroSection.png)
 
